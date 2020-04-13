@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 7488,
-  "expoServerNgrokUrl": "https://xe-24f.anonymous.book-worm.exp.direct",
-  "packagerNgrokUrl": "https://packager.xe-24f.anonymous.book-worm.exp.direct",
-  "ngrokPid": 7511,
-  "webpackServerPort": 19006
+  "packagerPid": 10472,
+  "expoServerNgrokUrl": "https://xe-24f.jpatino37.book-worm.exp.direct",
+  "packagerNgrokUrl": "https://packager.xe-24f.jpatino37.book-worm.exp.direct",
+  "ngrokPid": 10497,
+  "webpackServerPort": null
 }
